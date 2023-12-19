@@ -12,4 +12,6 @@ float main()
     area = length * breadth;
     printf("\n The area of Rectangle %f sq.cm", area);
     getch();
+    //This is a test comment
+
 }
